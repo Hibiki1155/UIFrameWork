@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGUI_Framework", "UGUI_Framework.csproj", "{8DE82F88-6ABA-9E45-2E26-FF49DBF2D3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGUI_Framework.Editor", "UGUI_Framework.Editor.csproj", "{1473C376-3F9B-E464-0A0F-EB464D837653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE82F88-6ABA-9E45-2E26-FF49DBF2D3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE82F88-6ABA-9E45-2E26-FF49DBF2D3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE82F88-6ABA-9E45-2E26-FF49DBF2D3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE82F88-6ABA-9E45-2E26-FF49DBF2D3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1473C376-3F9B-E464-0A0F-EB464D837653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1473C376-3F9B-E464-0A0F-EB464D837653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1473C376-3F9B-E464-0A0F-EB464D837653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1473C376-3F9B-E464-0A0F-EB464D837653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
